@@ -1,0 +1,48 @@
+NLP GROUP 16
+
+
+ECOMMERCE CHAT BOT INSTRUCTIONS 
+
+D.Anand Steven CHris
+Bhanu Teja
+Manohar
+Abhishek
+
+
+STEP 1 :
+
+OPEN THE COMPLETE NLP FOLDER IN YOYUR FAVOURITE IDE MAYBE PYCHARM / VS CODE ETC
+
+STEP2:
+
+GO TO nb.py file and run the file and open the terminal 
+
+step 3:
+
+now you will see Hello, I'm max ,welcome to ihub. i am there to answer all of your queries , If you want to exit, type Bye!
+
+step4:
+
+now enter your query and you will get your response back in the terminal
+
+step5:
+
+to exit press bye and the bot closes
+
+step6:
+
+the main data set is present in the nb.py file as max_inputs and max_responses
+data.txt and train_bot.json are reference data sets
+
+
+
+different functions:
+->In tokenize.py we aplied tokenization
+->In stemming.py we showed stemming
+->In prepro,py we did entire preprocessing
+->In stopwords.py we removed stop words
+->in working.py we show th step ny step execution of the input query i.e how our bot convert input sentence to keywords
+
+
+-------------------------------Thank you ------------------------------------------
+
