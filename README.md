@@ -1,4 +1,4 @@
-#NLP rule based ecommerce chat bot
+#NLP rule based ecommerce chat bot using nltk Library
 
 ![img1](https://github.com/steve7995/Nlpchatbot/assets/98587448/ac2aaba3-93cd-415b-9e04-251cd9b2a20f)
 
